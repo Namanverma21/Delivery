@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DeliverAtDoor – Autonomous Delivery System
 
 **DeliverAtDoor** is a web application built using the **MERN** stack (MongoDB, Express.js, React.js, Node.js). It is designed to automate the delivery system and provides three different portals for **Admin**, **Customer**, and **Delivery Agent**.
@@ -47,3 +48,6 @@ https://github.com/user-attachments/assets/79955137-fb5b-4d23-846f-9e0bbec13323
 
 
 
+=======
+# Delivery
+>>>>>>> 42982fcc6d39e3fc188d5fb135fa527c48c758cb

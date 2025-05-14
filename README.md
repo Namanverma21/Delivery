@@ -1,53 +1,55 @@
-<<<<<<< HEAD
-# DeliverAtDoor – Autonomous Delivery System
+# 📦 DeliverAtDoor – Smart Contactless Delivery Platform
 
-**DeliverAtDoor** is a web application built using the **MERN** stack (MongoDB, Express.js, React.js, Node.js). It is designed to automate the delivery system and provides three different portals for **Admin**, **Customer**, and **Delivery Agent**.
+**DeliverAtDoor** is a modern web application powered by the **MERN** stack (**MongoDB**, **Express.js**, **React.js**, **Node.js**) that streamlines and automates the delivery process. It features dedicated interfaces for **Administrators**, **Customers**, and **Delivery Personnel**.
 
-## 🚪 Customer Portal
+---
 
-- Place new delivery orders  
-- Track your order live on the map  
-- View past order history  
-- Download receipts as PDFs using jsPDF  
-- Login and sign up securely  
+## 👤 Customer Dashboard
 
-## 🛠️ Admin Portal
+- Create and schedule new deliveries  
+- Monitor your parcel’s real-time location on an interactive map  
+- Access complete order history  
+- Download order receipts in PDF format (via **jsPDF**)  
+- Register and log in securely  
 
-- View and manage all registered users  
-- View and manage all delivery orders  
-- View and manage delivery agents  
+---
 
+## 🧑‍💼 Admin Panel
 
-## 🚴 Delivery Agent Portal
+- Manage user accounts (customers and delivery agents)  
+- Monitor and control all delivery requests  
+- Oversee delivery agent assignments and statuses  
 
-- Accept delivery tasks  
-- Share real-time location using Socket.io  
-- Location is shown on the map using OpenStreetMap with Leaflet  
+---
 
-## 🧰 Tech Stack
+## 🚚 Delivery Agent Console
 
-- **Frontend**: React.js, Bootstrap, Leaflet (for maps), Socket.io-client  
+- View and accept delivery assignments  
+- Broadcast live location using **Socket.io**  
+- Real-time route visualization with **Leaflet + OpenStreetMap**  
+
+---
+
+## 🛠 Tech Stack Overview
+
+- **Frontend**: React.js, Bootstrap, Leaflet.js  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB  
-- **Authentication**: JWT (JSON Web Token)  
-- **PDF Generator**: jsPDF  
-- **Real-Time Tracking**: Socket.io + OpenStreetMap + Leaflet  
+- **User Authentication**: JWT (JSON Web Tokens)  
+- **PDF Reports**: jsPDF  
+- **Live Tracking**: Socket.io with Leaflet & OpenStreetMap  
 
+---
 
-## 📦 Features at a Glance
+## 🚀 Core Highlights
 
-- Fully responsive frontend  
-- Real-time location tracking  
-- Secure JWT-based authentication  
-- Separate portals for Admin, Customer, and Delivery Agent  
-- PDF invoice generation for customers
-  
-## Here's the preview
+- Fully mobile-friendly and responsive design  
+- Seamless real-time delivery tracking  
+- Secure authentication using token-based login  
+- Role-based portals: Admin, Customer, and Delivery Agent  
+- Easy PDF invoice generation for order summaries  
 
-https://github.com/user-attachments/assets/79955137-fb5b-4d23-846f-9e0bbec13323
+---
 
+---
 
-
-=======
-# Delivery
->>>>>>> 42982fcc6d39e3fc188d5fb135fa527c48c758cb
